@@ -76,3 +76,24 @@ h2 {
 .luxury-card .btn {
   color: var(--clr-green);
 }
+
+.sedan-card .btn:hover {
+  background-color: var(--clr-orange);
+  color: var(--color-text-body);
+  border-color: var(--color-text-body);
+  border-width: 2px;
+}
+
+.suv-card .btn:hover {
+  background-color: var(--clr-cyan);
+  color: var(--color-text-body);
+  border-color: var(--color-text-body);
+  border-width: 2px;
+}
+
+.luxury-card .btn:hover {
+  background-color: var(--clr-green);
+  color: var(--color-text-body);
+  border-color: var(--color-text-body);
+  border-width: 2px;
+}
